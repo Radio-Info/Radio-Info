@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Radio-Info
-- 👀 I’m interested in ... Aviation and Coding/Gaming
-- 🌱 I’m currently learning ... HTML
-- 💞️ I’m looking to collaborate on ...Nothing
-- 📫 How to reach me ... Don't try to please
+Hi, You've just found the Radio-Info GitHub Page, Well Done!
 
 <!---
 Radio-Info/Radio-Info is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
